@@ -1,5 +1,5 @@
-wordPressFile=wordpress-4.8.zip
-phpVersion=7.1
+wordPressFile=wordpress-5.5.1.zip
+phpVersion=7.3
 
 echo "Actualizando la lista de paquetes..."
 sudo apt-get -qq update
